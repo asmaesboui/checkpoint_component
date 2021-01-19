@@ -1,0 +1,36 @@
+
+html{
+  background-color: aquamarine;
+  font-family: Georgia, serif;
+}
+h1 {
+  color:  blue;
+  text-align: center;
+  font-size: 50px;
+  font-family: Georgia;
+  font-style: italic;
+  
+}
+
+img
+{
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+  
+} 
+
+.profil {
+  
+ margin-left: auto;
+ margin-right: auto;
+ font-size: calc(10px + 2vmin); 
+ color: blue;
+ text-align: center;
+}
+ .adress
+ {
+  font-family: Georgia;
+  font-style: italic;
+ }
+
